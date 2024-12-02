@@ -135,7 +135,7 @@ img{
                 i.ri-download-line::before:hover {
 
                     color: white;
-                    background-color: hsla(var(--tono), 100%, 25%, 1);
+                    background-color: hsla(var(--tono), 100%, 75%, 1);
                     
                 
                 }
