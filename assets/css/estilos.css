@@ -122,13 +122,13 @@ img{
                 }
     
                 a:hover {
-                    color: transparent;
+                    color: white;
                     background-color: hsla(var(--tono), 100%, 75%, 1);
                 }
 
                 i.ri-download-line::before{
-                    color: transparent;
-                    background-color: hsla(var(--tono), 100%, 75%, 1);
+                    color: hsla(var(--tono), 100%, 75%, 1);
+                    background-color: transparent;
                 }
             }
         }
