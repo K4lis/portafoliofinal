@@ -126,7 +126,7 @@ img{
                     background-color: hsla(var(--tono), 100%, 25%, 1);
                 }
 
-                i.ri-download-line::before{
+                i.ri-download-line::before {
                     color: white;
                     background-color: hsla(var(--tono), 100%, 75%, 1);
 
@@ -136,6 +136,8 @@ img{
 
                     color: white;
                     background-color: hsla(var(--tono), 100%, 75%, 1);
+
+                }
                     
                 
                 }
