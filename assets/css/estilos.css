@@ -127,7 +127,7 @@ img{
                 }
 
                 i.ri-download-line::before{
-                    color: #ffff;
+                    color: inherit;
                     background-color: hsla(var(--tono), 100%, 75%, 1);
                 }
             }
