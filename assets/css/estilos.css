@@ -123,7 +123,7 @@ img{
     
                 a:hover {
                     color: #ffff;
-                    background-color: hsla(var(--tono), 100%, 25%, 1);
+                    background-color: transparent;
                 }
 
                 i.ri-download-line::before{
