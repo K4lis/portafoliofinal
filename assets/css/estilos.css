@@ -128,7 +128,7 @@ img{
 
                 i.ri-download-line::before{
                     color: white;
-                    background-color: transparent;
+                    background-color: inherit;
 
                 
                 }
