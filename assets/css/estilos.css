@@ -127,8 +127,8 @@ img{
                 }
 
                 i.ri-download-line::before{
-                    color: hsla(var(--tono), 100%, 75%, 1);
-                    background-color: hsla(var(--comp), 100%, 30%, 1);
+                    color: white;
+                    background-color: transparent;
 
                 
                 }
