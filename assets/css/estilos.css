@@ -122,12 +122,12 @@ img{
                 }
     
                 a:hover {
-                    color: #ffff;
-                    background-color: inherit;
+                    color: transparent;
+                    background-color: hsla(var(--tono), 100%, 75%, 1);
                 }
 
                 i.ri-download-line::before{
-                    color: inherit;
+                    color: transparent;
                     background-color: hsla(var(--tono), 100%, 75%, 1);
                 }
             }
